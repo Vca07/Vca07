@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi
 
+Im trying to be better
 <!--
 **Vca07/Vca07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
